@@ -3,7 +3,27 @@
 # Ducky-Script-For-FlipperZero
 This repository is a collection of scripts which have been updated specifically For the BadUSB/BadKB function on FlipperZero. 
 They should however work just fine on any device that uses Ducky Script.
-These scripts range from harmless pranks to nefarious red team tools. For educational purposes only! 
+These scripts range from harmless pranks to nefarious red team tools.
+
+-------------------------------------------------------------------
+
+## ⚠️ Legal & Ethical Notice
+
+This repository is intended solely for **education, research, laboratory environments, and authorized security assessments**.
+
+The tools and techniques demonstrated here must only be used:
+- In your own lab or testing environment.
+- Against systems you own.
+- Against systems for which you have obtained explicit permission from the owner.
+
+**Unauthorized use of these materials against third-party systems is illegal and unethical.**
+
+The author does not encourage, condone, or authorize the use of these materials for unlawful purposes. All responsibility for the use or misuse of this repository rests solely with the user.
+
+Use responsibly, follow responsible disclosure practices where applicable, and comply with all local, national, and international laws
+
+-------------------------------------------------------------------
+
 
 **These payloads are all for Windows systems**
 
