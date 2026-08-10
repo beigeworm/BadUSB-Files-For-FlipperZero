@@ -1,7 +1,3 @@
-REM Title: 5 Second Display Kill
-REM Author: @beigeworm | https://github.com/beigeworm
-REM Description: Uses Powershell to kill all displays for a short period of time.
-REM Target: Windows 10,11
 
 
 DEFAULT_DELAY 100
@@ -18,3 +14,4 @@ DELAY 5000
 STRING (Add-Type '[DllImport("user32.dll")]public static extern int SendMessage
 STRING (int hWnd, int hMsg, int wParam, int lParam);' -Name a -Pas)::SendMessage(-1,0x0112,0xF170,2);sleep 5;exit
 ENTER
+
